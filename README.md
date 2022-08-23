@@ -3,5 +3,5 @@ I created with "Bootstrap", which is a Html, Css and Css library.
 
 I created this project to test my knowledge after [Beginner Front End Training](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)  tutorial.
 
-![Project-1](proje)
-![project-2](peoje-2)
+![](instagram-clone/proje)
+![](instagram-clone/peoje-2)
