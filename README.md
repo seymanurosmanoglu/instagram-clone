@@ -3,6 +3,5 @@ I created with "Bootstrap", which is a Html, Css and Css library.
 
 I created this project to test my knowledge after [Beginner Front End Training](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)  tutorial.
 
-![Project-1](desktop/proje)
-![Project-2](desktop/peoje-2)
-
+![Project-1](proje)
+![project-2](peoje-2)
